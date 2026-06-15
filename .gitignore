@@ -1,0 +1,11 @@
+# Node
+node_modules/
+npm-debug.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+__check.js
+/tmp/
